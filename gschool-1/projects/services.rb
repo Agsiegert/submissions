@@ -1,12 +1,12 @@
 def project
   {
-    :group1 => {  :project_name    => '',
-                  :members         => [''],
-                  :repo_url        => '',
-                  :tracker_url     => '',
-                  :staging_url     => '',
+    :group1 => {  :project_name    => 'Community Playdates',
+                  :members         => ['Antony Siegert', 'Ben Horne', 'Jonah Moses', 'Magan Adam'],
+                  :repo_url        => 'https://github.com/JonahMoses/community_playdates',
+                  :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002306',
+                  :staging_url     => 'community-palydates.herokuapps.com',
                   :production_url  => '',
-                  :vps_owner_email => '',
+                  :vps_owner_email => 'ben_horne44@gmail.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
                     :apis => 0,
